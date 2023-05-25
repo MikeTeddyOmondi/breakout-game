@@ -1,0 +1,9 @@
+# Ignored files
+.git
+.gitignore
+.gitmodules
+.gitattributes
+.gitkeep
+
+Dockerfile
+.dockerignore
